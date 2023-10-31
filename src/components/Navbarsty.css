@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(134, 127, 127);
+    
+}
+
+.leftconer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 5px;
+    
+    
+}
+
+.rightconer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 5px;
+}
+
+.ln{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.center div{
+    font-weight:"900";
+}

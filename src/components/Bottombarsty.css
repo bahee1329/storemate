@@ -1,0 +1,47 @@
+.container1{
+    
+    display: flex;
+    column-gap: 10px;
+    position: relative;
+    bottom: -20px;
+    
+}
+
+.left{
+   flex:7;
+   padding: 6px;
+   background-color: rgb(244, 243, 243)
+   
+}
+
+.right{
+    background-color:rgb(244, 243, 243);
+    flex: 5;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+
+.leftb{
+    
+    
+    display: flex;
+    justify-content:space-between;
+    align-items: baseline;
+}
+
+
+
+.price{
+    
+    flex: 6;
+    
+}
+
+.price1{
+    flex: 6;
+    background-color: blue;
+    border-radius: 6px;
+    
+}
+

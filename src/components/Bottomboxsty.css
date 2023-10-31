@@ -1,0 +1,14 @@
+.bottombox{
+    
+    background-color:rgb(8, 8, 200);
+    color: white;
+    font-weight: 200;
+    flex: 4;
+    margin: 5px;
+    border-radius: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    font-size: 15px;
+    
+}
